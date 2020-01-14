@@ -1,1 +1,1 @@
-# calc-pyqt5
+# calc-qt5
